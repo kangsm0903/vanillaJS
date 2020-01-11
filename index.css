@@ -1,0 +1,12 @@
+.js-clock {
+    color: rgb(124, 122, 122);
+}
+
+.clicked {
+    color: rgb(184, 90, 168);
+}
+
+.main {
+    cursor: pointer;
+    transition: color .4s ease-in-out;
+}
